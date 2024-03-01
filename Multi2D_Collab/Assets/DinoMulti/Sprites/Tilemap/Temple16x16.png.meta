@@ -1,0 +1,2994 @@
+fileFormatVersion: 2
+guid: 13f63977570b4dc43ad89b9e52fc5ac9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7393267391427668567
+    second: SR_Stone Ruins_TileSet 16x16_0
+  - first:
+      213: -3311533788731235218
+    second: SR_Stone Ruins_TileSet 16x16_1
+  - first:
+      213: -7305090025904449377
+    second: SR_Stone Ruins_TileSet 16x16_2
+  - first:
+      213: -207744095506154672
+    second: SR_Stone Ruins_TileSet 16x16_3
+  - first:
+      213: 7576300162992149070
+    second: SR_Stone Ruins_TileSet 16x16_4
+  - first:
+      213: -6663182119785828211
+    second: SR_Stone Ruins_TileSet 16x16_5
+  - first:
+      213: -5701800114190217025
+    second: SR_Stone Ruins_TileSet 16x16_6
+  - first:
+      213: 4758608970362844071
+    second: SR_Stone Ruins_TileSet 16x16_7
+  - first:
+      213: -8213350920898368717
+    second: SR_Stone Ruins_TileSet 16x16_8
+  - first:
+      213: -7341902150081527016
+    second: SR_Stone Ruins_TileSet 16x16_9
+  - first:
+      213: -1782427452274330895
+    second: SR_Stone Ruins_TileSet 16x16_10
+  - first:
+      213: -6795160416500658079
+    second: SR_Stone Ruins_TileSet 16x16_11
+  - first:
+      213: 6362831383015294304
+    second: SR_Stone Ruins_TileSet 16x16_12
+  - first:
+      213: 4869310682579972117
+    second: SR_Stone Ruins_TileSet 16x16_13
+  - first:
+      213: 137384222830050652
+    second: SR_Stone Ruins_TileSet 16x16_14
+  - first:
+      213: -8112142921861692680
+    second: SR_Stone Ruins_TileSet 16x16_15
+  - first:
+      213: 1301663300571594837
+    second: SR_Stone Ruins_TileSet 16x16_16
+  - first:
+      213: -5785439027873487734
+    second: SR_Stone Ruins_TileSet 16x16_17
+  - first:
+      213: -4282973631022194695
+    second: SR_Stone Ruins_TileSet 16x16_18
+  - first:
+      213: 5180467741296076176
+    second: SR_Stone Ruins_TileSet 16x16_19
+  - first:
+      213: -5722866114664910387
+    second: SR_Stone Ruins_TileSet 16x16_20
+  - first:
+      213: 6816930276382260137
+    second: SR_Stone Ruins_TileSet 16x16_21
+  - first:
+      213: -8660437269790005552
+    second: SR_Stone Ruins_TileSet 16x16_22
+  - first:
+      213: 2855451379866968674
+    second: SR_Stone Ruins_TileSet 16x16_23
+  - first:
+      213: 1954374666118806986
+    second: SR_Stone Ruins_TileSet 16x16_24
+  - first:
+      213: -744362154822710442
+    second: SR_Stone Ruins_TileSet 16x16_25
+  - first:
+      213: -7112602003134882896
+    second: SR_Stone Ruins_TileSet 16x16_26
+  - first:
+      213: 7022457911766860499
+    second: SR_Stone Ruins_TileSet 16x16_27
+  - first:
+      213: 308080717875450593
+    second: SR_Stone Ruins_TileSet 16x16_28
+  - first:
+      213: -2907453353749973775
+    second: SR_Stone Ruins_TileSet 16x16_29
+  - first:
+      213: 7770507567874576971
+    second: SR_Stone Ruins_TileSet 16x16_30
+  - first:
+      213: 5334032056690901021
+    second: SR_Stone Ruins_TileSet 16x16_31
+  - first:
+      213: -6727008561465398297
+    second: SR_Stone Ruins_TileSet 16x16_32
+  - first:
+      213: -5109671324054466353
+    second: SR_Stone Ruins_TileSet 16x16_33
+  - first:
+      213: -6412232855011225496
+    second: SR_Stone Ruins_TileSet 16x16_34
+  - first:
+      213: -7408198920052035562
+    second: SR_Stone Ruins_TileSet 16x16_35
+  - first:
+      213: -3599386761397500947
+    second: SR_Stone Ruins_TileSet 16x16_36
+  - first:
+      213: 748976047401933116
+    second: SR_Stone Ruins_TileSet 16x16_37
+  - first:
+      213: 2415162305346962778
+    second: SR_Stone Ruins_TileSet 16x16_38
+  - first:
+      213: 175052560137257784
+    second: SR_Stone Ruins_TileSet 16x16_39
+  - first:
+      213: 1180321132842876959
+    second: SR_Stone Ruins_TileSet 16x16_40
+  - first:
+      213: 7563209451826095998
+    second: SR_Stone Ruins_TileSet 16x16_41
+  - first:
+      213: 2993498075623710922
+    second: SR_Stone Ruins_TileSet 16x16_42
+  - first:
+      213: 8833125613990597243
+    second: SR_Stone Ruins_TileSet 16x16_43
+  - first:
+      213: -4727979085998080440
+    second: SR_Stone Ruins_TileSet 16x16_44
+  - first:
+      213: -8432201948465967510
+    second: SR_Stone Ruins_TileSet 16x16_45
+  - first:
+      213: -5438869508199743169
+    second: SR_Stone Ruins_TileSet 16x16_46
+  - first:
+      213: -7396299635526952692
+    second: SR_Stone Ruins_TileSet 16x16_47
+  - first:
+      213: 6975725537421655373
+    second: SR_Stone Ruins_TileSet 16x16_48
+  - first:
+      213: -2310644253742955153
+    second: SR_Stone Ruins_TileSet 16x16_49
+  - first:
+      213: -3718826653288399592
+    second: SR_Stone Ruins_TileSet 16x16_50
+  - first:
+      213: 8718170615558545993
+    second: SR_Stone Ruins_TileSet 16x16_51
+  - first:
+      213: 2331515904435624673
+    second: SR_Stone Ruins_TileSet 16x16_52
+  - first:
+      213: -9087685078475258914
+    second: SR_Stone Ruins_TileSet 16x16_53
+  - first:
+      213: -4053011347679072219
+    second: SR_Stone Ruins_TileSet 16x16_54
+  - first:
+      213: -7694899845360641328
+    second: SR_Stone Ruins_TileSet 16x16_55
+  - first:
+      213: -5615810312575254196
+    second: SR_Stone Ruins_TileSet 16x16_56
+  - first:
+      213: 7208646107429637346
+    second: SR_Stone Ruins_TileSet 16x16_57
+  - first:
+      213: -335960004544093204
+    second: SR_Stone Ruins_TileSet 16x16_58
+  - first:
+      213: 6043168557046393365
+    second: SR_Stone Ruins_TileSet 16x16_59
+  - first:
+      213: 4379954385157092531
+    second: SR_Stone Ruins_TileSet 16x16_60
+  - first:
+      213: -5612573976401925951
+    second: SR_Stone Ruins_TileSet 16x16_61
+  - first:
+      213: 1293204118463501824
+    second: SR_Stone Ruins_TileSet 16x16_62
+  - first:
+      213: 5355822127585078751
+    second: SR_Stone Ruins_TileSet 16x16_63
+  - first:
+      213: -6832923712406353632
+    second: SR_Stone Ruins_TileSet 16x16_64
+  - first:
+      213: 5169542659670158527
+    second: SR_Stone Ruins_TileSet 16x16_65
+  - first:
+      213: -6279743989724261488
+    second: SR_Stone Ruins_TileSet 16x16_66
+  - first:
+      213: -5647208627249605201
+    second: SR_Stone Ruins_TileSet 16x16_67
+  - first:
+      213: -7927472283361035561
+    second: SR_Stone Ruins_TileSet 16x16_68
+  - first:
+      213: 2765392784357512173
+    second: SR_Stone Ruins_TileSet 16x16_69
+  - first:
+      213: 2757587698605033450
+    second: SR_Stone Ruins_TileSet 16x16_70
+  - first:
+      213: 1906081185072136617
+    second: SR_Stone Ruins_TileSet 16x16_71
+  - first:
+      213: 5243988512963452367
+    second: SR_Stone Ruins_TileSet 16x16_72
+  - first:
+      213: 24219130816900163
+    second: SR_Stone Ruins_TileSet 16x16_73
+  - first:
+      213: -8779172271334864526
+    second: SR_Stone Ruins_TileSet 16x16_74
+  - first:
+      213: -2474879079130687664
+    second: SR_Stone Ruins_TileSet 16x16_75
+  - first:
+      213: 2164685628211179574
+    second: SR_Stone Ruins_TileSet 16x16_76
+  - first:
+      213: 6197455355719512290
+    second: SR_Stone Ruins_TileSet 16x16_77
+  - first:
+      213: -721111268055568005
+    second: SR_Stone Ruins_TileSet 16x16_78
+  - first:
+      213: -8846817598812846240
+    second: SR_Stone Ruins_TileSet 16x16_79
+  - first:
+      213: -4740561373130612929
+    second: SR_Stone Ruins_TileSet 16x16_80
+  - first:
+      213: -6340342938230889165
+    second: SR_Stone Ruins_TileSet 16x16_81
+  - first:
+      213: -8409593557369048093
+    second: SR_Stone Ruins_TileSet 16x16_82
+  - first:
+      213: 1650229891003991336
+    second: SR_Stone Ruins_TileSet 16x16_83
+  - first:
+      213: -3256050309916862200
+    second: SR_Stone Ruins_TileSet 16x16_84
+  - first:
+      213: -8856838928433994843
+    second: SR_Stone Ruins_TileSet 16x16_85
+  - first:
+      213: 7653188661207340095
+    second: SR_Stone Ruins_TileSet 16x16_86
+  - first:
+      213: 8570691468320206022
+    second: SR_Stone Ruins_TileSet 16x16_87
+  - first:
+      213: 4559968243744079309
+    second: SR_Stone Ruins_TileSet 16x16_88
+  - first:
+      213: -1033928655080128274
+    second: SR_Stone Ruins_TileSet 16x16_89
+  - first:
+      213: 1216109624648364802
+    second: SR_Stone Ruins_TileSet 16x16_90
+  - first:
+      213: 1188193303521337696
+    second: SR_Stone Ruins_TileSet 16x16_91
+  - first:
+      213: -7815962302644457250
+    second: SR_Stone Ruins_TileSet 16x16_92
+  - first:
+      213: 210028354679077977
+    second: SR_Stone Ruins_TileSet 16x16_93
+  - first:
+      213: -2945802855527584239
+    second: SR_Stone Ruins_TileSet 16x16_94
+  - first:
+      213: 2888526355877496597
+    second: SR_Stone Ruins_TileSet 16x16_95
+  - first:
+      213: 3776560197368339631
+    second: SR_Stone Ruins_TileSet 16x16_96
+  - first:
+      213: 8216333939624863586
+    second: SR_Stone Ruins_TileSet 16x16_97
+  - first:
+      213: 6295218108416457031
+    second: SR_Stone Ruins_TileSet 16x16_98
+  - first:
+      213: 328779316252655973
+    second: SR_Stone Ruins_TileSet 16x16_99
+  - first:
+      213: 6903311798454820636
+    second: SR_Stone Ruins_TileSet 16x16_100
+  - first:
+      213: -54853629100318804
+    second: SR_Stone Ruins_TileSet 16x16_101
+  - first:
+      213: -7747200718221824835
+    second: SR_Stone Ruins_TileSet 16x16_102
+  - first:
+      213: -2242245748937872847
+    second: Temple16x16_0
+  - first:
+      213: 9030108874087947430
+    second: Temple16x16_1
+  - first:
+      213: 6517420194979180416
+    second: Temple16x16_2
+  - first:
+      213: -3114703541635474757
+    second: Temple16x16_3
+  - first:
+      213: -1757246179826564954
+    second: Temple16x16_4
+  - first:
+      213: 5363324667061347462
+    second: Temple16x16_5
+  - first:
+      213: -2086792217855500506
+    second: Temple16x16_6
+  - first:
+      213: 463203989973677740
+    second: Temple16x16_7
+  - first:
+      213: 7606054219727005065
+    second: Temple16x16_8
+  - first:
+      213: -7243149325220239162
+    second: Temple16x16_9
+  - first:
+      213: -7821333057299286232
+    second: Temple16x16_10
+  - first:
+      213: 9197027819237855586
+    second: Temple16x16_11
+  - first:
+      213: -6076592129305702127
+    second: Temple16x16_12
+  - first:
+      213: -8846089195852233590
+    second: Temple16x16_13
+  - first:
+      213: -1507053816695139478
+    second: Temple16x16_14
+  - first:
+      213: 1960551242059760305
+    second: Temple16x16_15
+  - first:
+      213: -7272332644943888895
+    second: Temple16x16_16
+  - first:
+      213: -3114360781979260694
+    second: Temple16x16_17
+  - first:
+      213: 2982020569693633159
+    second: Temple16x16_18
+  - first:
+      213: 2225947385970784978
+    second: Temple16x16_19
+  - first:
+      213: 3477084069112061687
+    second: Temple16x16_20
+  - first:
+      213: 7845499133398860113
+    second: Temple16x16_21
+  - first:
+      213: -2545190989841647999
+    second: Temple16x16_22
+  - first:
+      213: 1005371727996166094
+    second: Temple16x16_23
+  - first:
+      213: -4489337483886906253
+    second: Temple16x16_24
+  - first:
+      213: -3185766651518369239
+    second: Temple16x16_25
+  - first:
+      213: -1560335037743264576
+    second: Temple16x16_26
+  - first:
+      213: -3348927997486679495
+    second: Temple16x16_27
+  - first:
+      213: 7720170697358885218
+    second: Temple16x16_28
+  - first:
+      213: 8544679107953746589
+    second: Temple16x16_29
+  - first:
+      213: 4074328001764455852
+    second: Temple16x16_30
+  - first:
+      213: 7217028825785877326
+    second: Temple16x16_31
+  - first:
+      213: -7961429506777829096
+    second: Temple16x16_32
+  - first:
+      213: 8840755307321202522
+    second: Temple16x16_33
+  - first:
+      213: 2984365963262314431
+    second: Temple16x16_34
+  - first:
+      213: -5906820874090667264
+    second: Temple16x16_35
+  - first:
+      213: 9063268860349820944
+    second: Temple16x16_36
+  - first:
+      213: 2005533616481138493
+    second: Temple16x16_37
+  - first:
+      213: -1127316315494820357
+    second: Temple16x16_38
+  - first:
+      213: -2533330795755922725
+    second: Temple16x16_39
+  - first:
+      213: -8383748169367362635
+    second: Temple16x16_40
+  - first:
+      213: -551248996820884635
+    second: Temple16x16_41
+  - first:
+      213: 3716078904655654181
+    second: Temple16x16_42
+  - first:
+      213: 137831430468562420
+    second: Temple16x16_43
+  - first:
+      213: 4834024920218207630
+    second: Temple16x16_44
+  - first:
+      213: 8647503400058808567
+    second: Temple16x16_45
+  - first:
+      213: 6110171306761273540
+    second: Temple16x16_46
+  - first:
+      213: -6324738473810655789
+    second: Temple16x16_47
+  - first:
+      213: -2146472344065290077
+    second: Temple16x16_48
+  - first:
+      213: 5544331880240477351
+    second: Temple16x16_49
+  - first:
+      213: -2161741130826467761
+    second: Temple16x16_50
+  - first:
+      213: 5784394503600955432
+    second: Temple16x16_51
+  - first:
+      213: 6151635107003107570
+    second: Temple16x16_52
+  - first:
+      213: -4362694273708187283
+    second: Temple16x16_53
+  - first:
+      213: -386922521907711671
+    second: Temple16x16_54
+  - first:
+      213: -7367706712958598973
+    second: Temple16x16_55
+  - first:
+      213: 4999598664225373783
+    second: Temple16x16_56
+  - first:
+      213: -1188560805867998295
+    second: Temple16x16_57
+  - first:
+      213: 7589256944304482567
+    second: Temple16x16_58
+  - first:
+      213: -8096207064193003965
+    second: Temple16x16_59
+  - first:
+      213: -7958780766005527560
+    second: Temple16x16_60
+  - first:
+      213: -9140692331999208250
+    second: Temple16x16_61
+  - first:
+      213: 6429324345865865324
+    second: Temple16x16_62
+  - first:
+      213: 680831553688113554
+    second: Temple16x16_63
+  - first:
+      213: -3104201815367765002
+    second: Temple16x16_64
+  - first:
+      213: -1177812625377314724
+    second: Temple16x16_65
+  - first:
+      213: -7191966701082475962
+    second: Temple16x16_66
+  - first:
+      213: -8274052465751452081
+    second: Temple16x16_67
+  - first:
+      213: 8789847862848847646
+    second: Temple16x16_68
+  - first:
+      213: -7913187804570654825
+    second: Temple16x16_69
+  - first:
+      213: -8697498999267783654
+    second: Temple16x16_70
+  - first:
+      213: -5995596903846004858
+    second: Temple16x16_71
+  - first:
+      213: 5808881724284595982
+    second: Temple16x16_72
+  - first:
+      213: 6124245202970697683
+    second: Temple16x16_73
+  - first:
+      213: 5621117896179124122
+    second: Temple16x16_74
+  - first:
+      213: -5414491534178929129
+    second: Temple16x16_75
+  - first:
+      213: -1730726072358742085
+    second: Temple16x16_76
+  - first:
+      213: 6887044250746202750
+    second: Temple16x16_77
+  - first:
+      213: 5232271442545284706
+    second: Temple16x16_78
+  - first:
+      213: -9124220408533313743
+    second: Temple16x16_79
+  - first:
+      213: -2747410446932151532
+    second: Temple16x16_80
+  - first:
+      213: 6042052173708636788
+    second: Temple16x16_81
+  - first:
+      213: 5889471584689539563
+    second: Temple16x16_82
+  - first:
+      213: 3051501346716383592
+    second: Temple16x16_83
+  - first:
+      213: 8151567870972474140
+    second: Temple16x16_84
+  - first:
+      213: 8256169477339982362
+    second: Temple16x16_85
+  - first:
+      213: -6387661658719929686
+    second: Temple16x16_86
+  - first:
+      213: -6124059221878256475
+    second: Temple16x16_87
+  - first:
+      213: 7083088110089731932
+    second: Temple16x16_88
+  - first:
+      213: -5315700848043841247
+    second: Temple16x16_89
+  - first:
+      213: -3093672652201349620
+    second: Temple16x16_90
+  - first:
+      213: -5580709557135315888
+    second: Temple16x16_91
+  - first:
+      213: 1161475847450878734
+    second: Temple16x16_92
+  - first:
+      213: -5451749363226860942
+    second: Temple16x16_93
+  - first:
+      213: -159275432465458771
+    second: Temple16x16_94
+  - first:
+      213: -8448087928456406800
+    second: Temple16x16_95
+  - first:
+      213: -45597475548445836
+    second: Temple16x16_96
+  - first:
+      213: 7447339583822486145
+    second: Temple16x16_97
+  - first:
+      213: 1751470551245853089
+    second: Temple16x16_98
+  - first:
+      213: -4987017978897615581
+    second: Temple16x16_99
+  - first:
+      213: -7689516880589745125
+    second: Temple16x16_100
+  - first:
+      213: -7968468523503157848
+    second: Temple16x16_101
+  - first:
+      213: -5745481814603811667
+    second: Temple16x16_102
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Temple16x16_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aad6b0f51f1e0e0800000000000000
+      internalID: -2242245748937872847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac5d1b6d24615d70800000000000000
+      internalID: 9030108874087947430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fe0b5f227827a50800000000000000
+      internalID: 6517420194979180416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba9a2c91a956c4d0800000000000000
+      internalID: -3114703541635474757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a08684e8e10d97e0800000000000000
+      internalID: -1757246179826564954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684284b5e5b5e6a40800000000000000
+      internalID: 5363324667061347462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f5caeb8893a03e0800000000000000
+      internalID: -2086792217855500506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6bce02391ad6600800000000000000
+      internalID: 463203989973677740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9856035a3022e8960800000000000000
+      internalID: 7606054219727005065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c82327801a2b7b90800000000000000
+      internalID: -7243149325220239162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827f7a9060b057390800000000000000
+      internalID: -7821333057299286232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261de0bd21862af70800000000000000
+      internalID: 9197027819237855586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1119ccf47ab9baba0800000000000000
+      internalID: -6076592129305702127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a848ec5beb06c3580800000000000000
+      internalID: -8846089195852233590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a635d76d98ed51be0800000000000000
+      internalID: -1507053816695139478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b24cea97f6453b10800000000000000
+      internalID: 1960551242059760305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e74a96dfb731b90800000000000000
+      internalID: -7272332644943888895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8e7bf8e5197c4d0800000000000000
+      internalID: -3114360781979260694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a3f71a8e3426920800000000000000
+      internalID: 2982020569693633159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da7f7d9a5724ee10800000000000000
+      internalID: 2225947385970784978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe1899d985114030800000000000000
+      internalID: 3477084069112061687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151cfd305efc0ec60800000000000000
+      internalID: 7845499133398860113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186b6fc974aadacd0800000000000000
+      internalID: -2545190989841647999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf9e6a824cc3fd00800000000000000
+      internalID: 1005371727996166094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374331c085ba2b1c0800000000000000
+      internalID: -4489337483886906253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92246fefb12e9c3d0800000000000000
+      internalID: -3185766651518369239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc87b8dc83985ae0800000000000000
+      internalID: -1560335037743264576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a327bcab73681d0800000000000000
+      internalID: -3348927997486679495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261c475985e832b60800000000000000
+      internalID: 7720170697358885218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92e845806cc49670800000000000000
+      internalID: 8544679107953746589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5f89b1bbbea8830800000000000000
+      internalID: 4074328001764455852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43c8b6ca79082460800000000000000
+      internalID: 7217028825785877326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811b1388b02538190800000000000000
+      internalID: -7961429506777829096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5797079c1ca0ba70800000000000000
+      internalID: 8840755307321202522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_34
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7440028099a6920800000000000000
+      internalID: 2984365963262314431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003a6ffe5b1c60ea0800000000000000
+      internalID: -5906820874090667264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010b20d520337cd70800000000000000
+      internalID: 9063268860349820944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37767bc23615db10800000000000000
+      internalID: 2005533616481138493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5dd69a8c7fa50f0800000000000000
+      internalID: -1127316315494820357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda196c301dc7dcd0800000000000000
+      internalID: -2533330795755922725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_40
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3e68e7571f6ab80800000000000000
+      internalID: -8383748169367362635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56363b145f19958f0800000000000000
+      internalID: -551248996820884635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52da25d331a229330800000000000000
+      internalID: 3716078904655654181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd66fba4fca9e100800000000000000
+      internalID: 137831430468562420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e850efc9d08e51340800000000000000
+      internalID: 4834024920218207630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8ec72a68a120870800000000000000
+      internalID: 8647503400058808567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c04a403e60bbc450800000000000000
+      internalID: 6110171306761273540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d505433ed30a38a0800000000000000
+      internalID: -6324738473810655789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0d9cb86c23632e0800000000000000
+      internalID: -2146472344065290077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a47b9e487c61fc40800000000000000
+      internalID: 5544331880240477351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46bcb815e3fff1e0800000000000000
+      internalID: -2161741130826467761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8206bdb672c464050800000000000000
+      internalID: 5784394503600955432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f80ebc798ffe5550800000000000000
+      internalID: 6151635107003107570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_53
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d612eff2ca89473c0800000000000000
+      internalID: -4362694273708187283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941b71e240061aaf0800000000000000
+      internalID: -386922521907711671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c087d4c7c5a0c990800000000000000
+      internalID: -7367706712958598973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ebba00f74226540800000000000000
+      internalID: 4999598664225373783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3394c8e32618fe0800000000000000
+      internalID: -1188560805867998295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7096f623bf4725960800000000000000
+      internalID: 7589256944304482567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e84c6129e74af80800000000000000
+      internalID: -8096207064193003965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb770d8f0bbc8190800000000000000
+      internalID: -7958780766005527560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccdc06e0ccb52180800000000000000
+      internalID: -9140692331999208250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c680b15bd6c893950800000000000000
+      internalID: 6429324345865865324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291157dd0bcc27900800000000000000
+      internalID: 680831553688113554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3b1eb45e8abe4d0800000000000000
+      internalID: -3104201815367765002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c583a6458a197afe0800000000000000
+      internalID: -1177812625377314724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_66
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6428a89d360013c90800000000000000
+      internalID: -7191966701082475962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4690f5ce19ac2d80800000000000000
+      internalID: -8274052465751452081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ff4d68f00dbf970800000000000000
+      internalID: 8789847862848847646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797ec9b1e95be2290800000000000000
+      internalID: -7913187804570654825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c0452ddb64c4780800000000000000
+      internalID: -8697498999267783654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687b3d9c16c5bcca0800000000000000
+      internalID: -5995596903846004858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fed36c62b4d9050800000000000000
+      internalID: 5808881724284595982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df55708090bdf450800000000000000
+      internalID: 6124245202970697683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a970952d1f8320e40800000000000000
+      internalID: 5621117896179124122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716b7e903acdbd4b0800000000000000
+      internalID: -5414491534178929129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7dc859ec93bf7e0800000000000000
+      internalID: -1730726072358742085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aaf16c142b39f50800000000000000
+      internalID: 6887044250746202750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266155db723cc9840800000000000000
+      internalID: 5232271442545284706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137900171e1406180800000000000000
+      internalID: -9124220408533313743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413796241cc3fd9d0800000000000000
+      internalID: -2747410446932151532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472b748907ea9d350800000000000000
+      internalID: 6042052173708636788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be94d28d33b9bb150800000000000000
+      internalID: 5889471584689539563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869f7aaae4c195a20800000000000000
+      internalID: 3051501346716383592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c133dcf2acf202170800000000000000
+      internalID: 8151567870972474140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aa546856ec39270800000000000000
+      internalID: 8256169477339982362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaabd9e80977a57a0800000000000000
+      internalID: -6387661658719929686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5accd789598f20ba0800000000000000
+      internalID: -6124059221878256475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ff0babb1f2c4260800000000000000
+      internalID: 7083088110089731932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129aa141e36da36b0800000000000000
+      internalID: -5315700848043841247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ea2322d111115d0800000000000000
+      internalID: -3093672652201349620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c6254c9365d82b0800000000000000
+      internalID: -5580709557135315888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03618621246e1010800000000000000
+      internalID: 1161475847450878734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272a668b6de7754b0800000000000000
+      internalID: -5451749363226860942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9137a86d32acdf0800000000000000
+      internalID: -159275432465458771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f81719f9cc52ca80800000000000000
+      internalID: -8448087928456406800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473c74b66510e5ff0800000000000000
+      internalID: -45597475548445836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ad17fc4e34a5760800000000000000
+      internalID: 7447339583822486145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a11199cf297e4810800000000000000
+      internalID: 1751470551245853089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325325f029d8acab0800000000000000
+      internalID: -4987017978897615581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14141e4329594590800000000000000
+      internalID: -7689516880589745125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad76bcb8105a6190800000000000000
+      internalID: -7968468523503157848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Temple16x16_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4b2110bb2f340b0800000000000000
+      internalID: -5745481814603811667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Temple16x16_67: -8274052465751452081
+      Temple16x16_69: -7913187804570654825
+      Temple16x16_58: 7589256944304482567
+      Temple16x16_102: -5745481814603811667
+      Temple16x16_5: 5363324667061347462
+      Temple16x16_88: 7083088110089731932
+      Temple16x16_91: -5580709557135315888
+      Temple16x16_59: -8096207064193003965
+      Temple16x16_94: -159275432465458771
+      Temple16x16_0: -2242245748937872847
+      Temple16x16_48: -2146472344065290077
+      Temple16x16_3: -3114703541635474757
+      Temple16x16_16: -7272332644943888895
+      Temple16x16_99: -4987017978897615581
+      Temple16x16_97: 7447339583822486145
+      Temple16x16_72: 5808881724284595982
+      Temple16x16_57: -1188560805867998295
+      Temple16x16_63: 680831553688113554
+      Temple16x16_68: 8789847862848847646
+      Temple16x16_33: 8840755307321202522
+      Temple16x16_41: -551248996820884635
+      Temple16x16_6: -2086792217855500506
+      Temple16x16_54: -386922521907711671
+      Temple16x16_75: -5414491534178929129
+      Temple16x16_83: 3051501346716383592
+      Temple16x16_56: 4999598664225373783
+      Temple16x16_36: 9063268860349820944
+      Temple16x16_64: -3104201815367765002
+      Temple16x16_21: 7845499133398860113
+      Temple16x16_84: 8151567870972474140
+      Temple16x16_30: 4074328001764455852
+      Temple16x16_70: -8697498999267783654
+      Temple16x16_101: -7968468523503157848
+      Temple16x16_20: 3477084069112061687
+      Temple16x16_29: 8544679107953746589
+      Temple16x16_90: -3093672652201349620
+      Temple16x16_47: -6324738473810655789
+      Temple16x16_9: -7243149325220239162
+      Temple16x16_98: 1751470551245853089
+      Temple16x16_45: 8647503400058808567
+      Temple16x16_15: 1960551242059760305
+      Temple16x16_32: -7961429506777829096
+      Temple16x16_18: 2982020569693633159
+      Temple16x16_71: -5995596903846004858
+      Temple16x16_24: -4489337483886906253
+      Temple16x16_35: -5906820874090667264
+      Temple16x16_31: 7217028825785877326
+      Temple16x16_1: 9030108874087947430
+      Temple16x16_55: -7367706712958598973
+      Temple16x16_46: 6110171306761273540
+      Temple16x16_34: 2984365963262314431
+      Temple16x16_87: -6124059221878256475
+      Temple16x16_2: 6517420194979180416
+      Temple16x16_53: -4362694273708187283
+      Temple16x16_74: 5621117896179124122
+      Temple16x16_11: 9197027819237855586
+      Temple16x16_49: 5544331880240477351
+      Temple16x16_40: -8383748169367362635
+      Temple16x16_61: -9140692331999208250
+      Temple16x16_26: -1560335037743264576
+      Temple16x16_50: -2161741130826467761
+      Temple16x16_7: 463203989973677740
+      Temple16x16_12: -6076592129305702127
+      Temple16x16_28: 7720170697358885218
+      Temple16x16_80: -2747410446932151532
+      Temple16x16_52: 6151635107003107570
+      Temple16x16_27: -3348927997486679495
+      Temple16x16_96: -45597475548445836
+      Temple16x16_22: -2545190989841647999
+      Temple16x16_25: -3185766651518369239
+      Temple16x16_51: 5784394503600955432
+      Temple16x16_38: -1127316315494820357
+      Temple16x16_13: -8846089195852233590
+      Temple16x16_8: 7606054219727005065
+      Temple16x16_85: 8256169477339982362
+      Temple16x16_100: -7689516880589745125
+      Temple16x16_73: 6124245202970697683
+      Temple16x16_62: 6429324345865865324
+      Temple16x16_93: -5451749363226860942
+      Temple16x16_42: 3716078904655654181
+      Temple16x16_19: 2225947385970784978
+      Temple16x16_17: -3114360781979260694
+      Temple16x16_39: -2533330795755922725
+      Temple16x16_37: 2005533616481138493
+      Temple16x16_77: 6887044250746202750
+      Temple16x16_95: -8448087928456406800
+      Temple16x16_81: 6042052173708636788
+      Temple16x16_60: -7958780766005527560
+      Temple16x16_10: -7821333057299286232
+      Temple16x16_78: 5232271442545284706
+      Temple16x16_65: -1177812625377314724
+      Temple16x16_92: 1161475847450878734
+      Temple16x16_4: -1757246179826564954
+      Temple16x16_23: 1005371727996166094
+      Temple16x16_43: 137831430468562420
+      Temple16x16_76: -1730726072358742085
+      Temple16x16_66: -7191966701082475962
+      Temple16x16_44: 4834024920218207630
+      Temple16x16_79: -9124220408533313743
+      Temple16x16_86: -6387661658719929686
+      Temple16x16_82: 5889471584689539563
+      Temple16x16_14: -1507053816695139478
+      Temple16x16_89: -5315700848043841247
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

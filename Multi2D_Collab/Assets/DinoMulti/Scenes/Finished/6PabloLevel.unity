@@ -7137,7 +7137,7 @@ MonoBehaviour:
   - {fileID: 720715668}
   - {fileID: 275513418}
   - {fileID: 2059910366}
-  castTime: 2
+  castTime: 1
   repeatTime: 2
 --- !u!4 &1734482231
 Transform:

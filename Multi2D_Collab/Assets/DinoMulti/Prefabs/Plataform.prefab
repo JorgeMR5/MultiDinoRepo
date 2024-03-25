@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5185436277606860764}
   - component: {fileID: 8889521303454212543}
   - component: {fileID: 1346996600690417561}
-  - component: {fileID: 3924480156057403548}
+  - component: {fileID: 5401995464493206476}
   m_Layer: 6
   m_Name: Plataform
   m_TagString: Untagged
@@ -35,7 +35,7 @@ Transform:
   - {fileID: 8952696003486795868}
   - {fileID: 5668562500409317638}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &8889521303454212543
 BoxCollider2D:
@@ -109,7 +109,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &3924480156057403548
+--- !u!114 &5401995464493206476
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -118,14 +118,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 513169323508812236}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 277f69b485a39ec46aa02bd60be7a7d6, type: 3}
+  m_Script: {fileID: 11500000, guid: 96ed24d81628e9b4cafbe9d26ba6a66f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0
+  points: []
   startingPoint: 0
-  points:
-  - {fileID: 0}
-  - {fileID: 0}
+  speed: 0
 --- !u!1 &1247974129098603821
 GameObject:
   m_ObjectHideFlags: 0

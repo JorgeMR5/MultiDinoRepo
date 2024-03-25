@@ -8705,7 +8705,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4392771274986186345, guid: 8e9cc57df60844146972e4a7a75f5771, type: 3}
       propertyPath: groundLayer.m_Bits
-      value: 0
+      value: 64
       objectReference: {fileID: 0}
     - target: {fileID: 7695956063392243057, guid: 8e9cc57df60844146972e4a7a75f5771, type: 3}
       propertyPath: m_IsActive
@@ -8786,7 +8786,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7546473780544839839, guid: 404f347c9971047428aa57f148defcd1, type: 3}
       propertyPath: groundLayer.m_Bits
-      value: 0
+      value: 64
       objectReference: {fileID: 0}
     - target: {fileID: 7917714415123496638, guid: 404f347c9971047428aa57f148defcd1, type: 3}
       propertyPath: m_DefaultControlScheme
